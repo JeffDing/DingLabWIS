@@ -1,6 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ï»¿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
 <style type="text/css">
 .logo-center {
 	text-align: center;
@@ -14,7 +14,7 @@ body {
 .text-top {
 	text-align: center;
 	font-size: 12px;
-	font-family: "ºÚÌå";
+	font-family: "é»‘ä½“";
 	font-weight: normal;
 }
 .text-top font {
@@ -25,7 +25,7 @@ body {
 .text-time {
 	text-align: right;
 	font-size: 16px;
-	font-family: "ºÚÌå";
+	font-family: "é»‘ä½“";
     color:red;
 	font-weight: normal;
 }
@@ -37,11 +37,11 @@ body {
 
 <body bgcolor="#CCE8CF">
 <body leftmargin=0 topmargin=0  oncontextmenu='return false' ondragstart='return false' onselectstart ='return false' onselect='document.selection.empty()' oncopy='document.selection.empty()' onbeforecopy='return false' onmouseup='document.selection.empty()'>  
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <table width="100%" border="0" height="80">
   <tr>
     <td width="80" rowspan="3" class="logo-center"><img src="img/logo.png" width="80" height="80" /></td>
-    <td width="950" rowspan="3" class="text-top"><font color="#00582a" size="+4">DingLabÆøÏóÑĞ¾¿ÖĞĞÄ×ÛºÏĞÅÏ¢·şÎñÆ½Ì¨</font></td>
+    <td width="950" rowspan="3" class="text-top"><font color="#00582a" size="+4">DingLabæ°”è±¡ç ”ç©¶ä¸­å¿ƒç»¼åˆä¿¡æ¯æœåŠ¡å¹³å°</font></td>
     <td width="250" height="25" class="text-time" id="timetable">&nbsp;</td>
   </tr>
 </table>
@@ -55,26 +55,26 @@ body {
     day=add_zero(date.getDate());
     week=date.getDay();
     switch (date.getDay()) {
-    case 0:val="ĞÇÆÚÌì";break
-    case 1:val="ĞÇÆÚÒ»";break
-    case 2:val="ĞÇÆÚ¶ş";break
-    case 3:val="ĞÇÆÚÈı";break
-    case 4:val="ĞÇÆÚËÄ";break
-    case 5:val="ĞÇÆÚÎå";break
-    case 6:val="ĞÇÆÚÁù";break
+    case 0:val="æ˜ŸæœŸå¤©";break
+    case 1:val="æ˜ŸæœŸä¸€";break
+    case 2:val="æ˜ŸæœŸäºŒ";break
+    case 3:val="æ˜ŸæœŸä¸‰";break
+    case 4:val="æ˜ŸæœŸå››";break
+    case 5:val="æ˜ŸæœŸäº”";break
+    case 6:val="æ˜ŸæœŸå…­";break
     }
     utcyear=date.getUTCFullYear();
     utcmonth=add_zero(date.getUTCMonth()+1);
     utcday=add_zero(date.getUTCDate());
     utcweek=date.getUTCDay();
     switch (date.getUTCDay()) {
-    case 0:utcval="ĞÇÆÚÌì";break
-    case 1:utcval="ĞÇÆÚÒ»";break
-    case 2:utcval="ĞÇÆÚ¶ş";break
-    case 3:utcval="ĞÇÆÚÈı";break
-    case 4:utcval="ĞÇÆÚËÄ";break
-    case 5:utcval="ĞÇÆÚÎå";break
-    case 6:utcval="ĞÇÆÚÁù";break
+    case 0:utcval="æ˜ŸæœŸå¤©";break
+    case 1:utcval="æ˜ŸæœŸä¸€";break
+    case 2:utcval="æ˜ŸæœŸäºŒ";break
+    case 3:utcval="æ˜ŸæœŸä¸‰";break
+    case 4:utcval="æ˜ŸæœŸå››";break
+    case 5:utcval="æ˜ŸæœŸäº”";break
+    case 6:utcval="æ˜ŸæœŸå…­";break
     }
     hour=add_zero(date.getHours());
     minute=add_zero(date.getMinutes());
@@ -82,7 +82,7 @@ body {
     utchour=add_zero(date.getUTCHours());
     utcminute=add_zero(date.getUTCMinutes());
     utcsecond=add_zero(date.getUTCSeconds());
-    timetable.innerText="UTCÊ±¼ä£º "+utcyear+"Äê"+utcmonth+"ÔÂ"+utcday+"ÈÕ   "+utchour+":"+utcminute+":"+utcsecond+"\n"+"±¾µØÊ±¼ä£º "+year+"Äê"+month+"ÔÂ"+day+"ÈÕ   "+hour+":"+minute+":"+second;
+    timetable.innerText="UTCæ—¶é—´ï¼š "+utcyear+"å¹´"+utcmonth+"æœˆ"+utcday+"æ—¥   "+utchour+":"+utcminute+":"+utcsecond+"\n"+"æœ¬åœ°æ—¶é—´ï¼š "+year+"å¹´"+month+"æœˆ"+day+"æ—¥   "+hour+":"+minute+":"+second;
   }
 
   function add_zero(temp)
