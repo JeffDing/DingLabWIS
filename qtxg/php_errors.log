@@ -1,0 +1,240 @@
+[25-Jan-2015 17:48:53 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:48:53 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:48:53 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:00 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:00 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:00 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:07 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:07 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:07 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:09 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:09 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:09 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:10 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:10 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:10 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:10 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:10 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:10 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:11 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:11 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:11 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:11 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:11 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:11 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:49:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 17:49:13 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:13 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:13 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:13 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:13 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:13 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:14 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:15 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:15 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:15 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:49:15 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:49:15 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:49:15 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:58:59 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 17:58:59 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 17:58:59 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 17:59:00 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jma.php on line 21
+[25-Jan-2015 17:59:00 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 27
+[25-Jan-2015 17:59:00 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jma.php on line 29
+[25-Jan-2015 21:10:01 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/typhoon_new.htm):  in C:\WebCore\tfxx\qtxg\tfkx.php on line 13
+[25-Jan-2015 21:10:01 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\tfkx.php on line 16
+[25-Jan-2015 21:14:41 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\WebCore\tfxx\qtxg\jmabw.php on line 12
+[25-Jan-2015 21:14:41 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 15
+[25-Jan-2015 21:14:41 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\jmabw.php on line 16
+[25-Jan-2015 21:15:06 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/typhoon_new.htm):  in C:\WebCore\tfxx\qtxg\tfkx.php on line 13
+[25-Jan-2015 21:15:06 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\tfkx.php on line 16
+[26-Jan-2015 17:35:44 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/weatherperday/index.html):  in C:\WebCore\tfxx\qtxg\mr.php on line 9
+[26-Jan-2015 17:35:44 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\WebCore\tfxx\qtxg\mr.php on line 12
+[27-Feb-2015 19:00:18 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/weatherperday/index.html):  in C:\wwwroot\tfxx\qtxg\mr.php on line 9
+[27-Feb-2015 19:00:18 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\mr.php on line 12
+[27-Feb-2015 19:01:13 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/weatherperday/index.html):  in C:\wwwroot\tfxx\qtxg\mr.php on line 9
+[27-Feb-2015 19:01:13 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\mr.php on line 12
+[27-Feb-2015 19:01:29 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/ten-days.htm):  in C:\wwwroot\tfxx\qtxg\xun.php on line 9
+[27-Feb-2015 19:01:29 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\xun.php on line 13
+[27-Feb-2015 20:34:42 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jmabw.php on line 12
+[27-Feb-2015 20:34:42 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 15
+[27-Feb-2015 20:34:42 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 16
+[28-Feb-2015 00:25:09 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jmabw.php on line 12
+[28-Feb-2015 00:25:09 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 15
+[28-Feb-2015 00:25:09 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 16
+[28-Feb-2015 11:12:03 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jmabw.php on line 12
+[28-Feb-2015 11:12:03 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 15
+[28-Feb-2015 11:12:03 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 16
+[28-Feb-2015 11:12:04 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jmabw.php on line 12
+[28-Feb-2015 11:12:04 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 15
+[28-Feb-2015 11:12:04 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 16
+[28-Feb-2015 11:12:05 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jmabw.php on line 12
+[28-Feb-2015 11:12:05 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 15
+[28-Feb-2015 11:12:05 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 16
+[28-Feb-2015 11:12:07 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jma.php on line 21
+[28-Feb-2015 11:12:07 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jma.php on line 27
+[28-Feb-2015 11:12:07 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jma.php on line 29
+[28-Feb-2015 11:12:08 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy5qbWEuZ28uanAvanAvdHlwaC8=): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jma.php on line 21
+[28-Feb-2015 11:12:08 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jma.php on line 27
+[28-Feb-2015 11:12:08 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jma.php on line 29
+[28-Feb-2015 11:12:13 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/probability-img2.html):  in C:\wwwroot\tfxx\qtxg\tfyb2.php on line 10
+[28-Feb-2015 11:12:20 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/message.htm):  in C:\wwwroot\tfxx\qtxg\cma.php on line 11
+[28-Feb-2015 11:12:20 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cma.php on line 15
+[28-Feb-2015 11:12:23 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/message.htm):  in C:\wwwroot\tfxx\qtxg\cma.php on line 11
+[28-Feb-2015 11:12:23 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cma.php on line 15
+[28-Feb-2015 11:15:04 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/abroadweather.htm):  in C:\wwwroot\tfxx\qtxg\wai.php on line 9
+[28-Feb-2015 11:15:04 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\wai.php on line 12
+[28-Feb-2015 11:46:21 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jmabw.php on line 12
+[28-Feb-2015 11:46:21 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 15
+[28-Feb-2015 11:46:21 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 16
+[28-Feb-2015 12:08:38 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/elongating.htm):  in C:\wwwroot\tfxx\qtxg\cq.php on line 9
+[28-Feb-2015 12:08:38 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cq.php on line 12
+[28-Feb-2015 12:13:21 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/elongating.htm):  in C:\wwwroot\tfxx\qtxg\cq.php on line 9
+[28-Feb-2015 12:13:21 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cq.php on line 12
+[28-Feb-2015 12:14:06 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/swpc.htm):  in C:\wwwroot\tfxx\qtxg\qdltq.php on line 9
+[28-Feb-2015 12:14:06 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\qdltq.php on line 13
+[28-Feb-2015 12:19:26 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/elongating.htm):  in C:\wwwroot\tfxx\qtxg\cq.php on line 9
+[28-Feb-2015 12:19:26 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cq.php on line 12
+[28-Feb-2015 12:48:39 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/ten-days.htm):  in C:\wwwroot\tfxx\qtxg\xun.php on line 9
+[28-Feb-2015 12:48:39 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\xun.php on line 13
+[28-Feb-2015 13:51:54 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/message.htm):  in C:\wwwroot\tfxx\qtxg\cma.php on line 11
+[28-Feb-2015 13:51:54 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cma.php on line 15
+[28-Feb-2015 14:41:25 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/weatherperday/index.html):  in C:\wwwroot\tfxx\qtxg\mr.php on line 9
+[28-Feb-2015 14:41:25 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\mr.php on line 12
+[28-Feb-2015 15:08:34 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/ten-days.htm):  in C:\wwwroot\tfxx\qtxg\xun.php on line 9
+[28-Feb-2015 15:08:34 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\xun.php on line 13
+[28-Feb-2015 16:46:23 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/short-range.htm):  in C:\wwwroot\tfxx\qtxg\dq.php on line 9
+[28-Feb-2015 16:46:23 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\dq.php on line 12
+[28-Feb-2015 17:52:43 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/warning.htm):  in C:\wwwroot\tfxx\qtxg\tfgb.php on line 9
+[28-Feb-2015 17:52:43 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\tfgb.php on line 13
+[28-Feb-2015 18:35:33 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/ten-days.htm):  in C:\wwwroot\tfxx\qtxg\xun.php on line 9
+[28-Feb-2015 18:35:33 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\xun.php on line 13
+[28-Feb-2015 18:54:18 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[28-Feb-2015 18:54:18 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[28-Feb-2015 18:54:35 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/short-range.htm):  in C:\wwwroot\tfxx\qtxg\dq.php on line 9
+[28-Feb-2015 18:54:35 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\dq.php on line 12
+[28-Feb-2015 20:11:12 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/typhoon_new.htm):  in C:\wwwroot\tfxx\qtxg\tfkx.php on line 13
+[28-Feb-2015 20:11:12 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\tfkx.php on line 16
+[28-Feb-2015 20:18:53 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/weatherperday/index.html):  in C:\wwwroot\tfxx\qtxg\mr.php on line 9
+[28-Feb-2015 20:18:53 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\mr.php on line 12
+[28-Feb-2015 21:19:07 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/country/warning/cold.html):  in C:\wwwroot\tfxx\qtxg\hcyj.php on line 9
+[28-Feb-2015 21:19:07 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\hcyj.php on line 12
+[28-Feb-2015 21:19:10 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/country/warning/cold.html):  in C:\wwwroot\tfxx\qtxg\hcyj.php on line 9
+[28-Feb-2015 21:19:10 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\hcyj.php on line 12
+[28-Feb-2015 22:35:07 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/abroadweather.htm):  in C:\wwwroot\tfxx\qtxg\wai.php on line 9
+[28-Feb-2015 22:35:07 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\wai.php on line 12
+[28-Feb-2015 23:14:29 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoondocs.htm):  in C:\wwwroot\tfxx\qtxg\tfmm.php on line 9
+[28-Feb-2015 23:14:29 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\tfmm.php on line 12
+[28-Feb-2015 23:15:03 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/elongating.htm):  in C:\wwwroot\tfxx\qtxg\cq.php on line 9
+[28-Feb-2015 23:15:03 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cq.php on line 12
+[28-Feb-2015 23:25:03 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/typhoon_new.htm):  in C:\wwwroot\tfxx\qtxg\tfkx.php on line 13
+[28-Feb-2015 23:25:03 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\tfkx.php on line 16
+[28-Feb-2015 23:44:27 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[28-Feb-2015 23:44:27 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[28-Feb-2015 23:44:42 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[28-Feb-2015 23:44:42 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[28-Feb-2015 23:44:52 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[28-Feb-2015 23:44:52 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[28-Feb-2015 23:57:16 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/typhoon_new.htm):  in C:\wwwroot\tfxx\qtxg\tfkx.php on line 13
+[28-Feb-2015 23:57:16 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\tfkx.php on line 16
+[01-Mar-2015 00:40:41 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoondocs.htm):  in C:\wwwroot\tfxx\qtxg\tfmm.php on line 9
+[01-Mar-2015 00:40:41 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\tfmm.php on line 12
+[01-Mar-2015 02:26:31 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jmabw.php on line 12
+[01-Mar-2015 02:26:31 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 15
+[01-Mar-2015 02:26:31 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 16
+[01-Mar-2015 06:48:58 Asia/Shanghai] PHP Warning:  file_get_contents(http://meiguo.jt371.cn/?__proxy_url=aHR0cDovL3d3dy53aXMtam1hLmdvLmpwL2Ntcy93YXJuaW5nLw==): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in C:\wwwroot\tfxx\qtxg\jmabw.php on line 12
+[01-Mar-2015 06:48:58 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 15
+[01-Mar-2015 06:48:58 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\jmabw.php on line 16
+[01-Mar-2015 09:08:24 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/abroadweather.htm):  in C:\wwwroot\tfxx\qtxg\wai.php on line 9
+[01-Mar-2015 09:08:24 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\wai.php on line 12
+[01-Mar-2015 09:46:00 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/ten-days.htm):  in C:\wwwroot\tfxx\qtxg\xun.php on line 9
+[01-Mar-2015 09:46:00 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\xun.php on line 13
+[01-Mar-2015 10:02:50 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[01-Mar-2015 10:02:50 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[01-Mar-2015 10:03:00 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[01-Mar-2015 10:03:00 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[01-Mar-2015 10:03:05 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[01-Mar-2015 10:03:05 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[01-Mar-2015 11:01:18 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/elongating.htm):  in C:\wwwroot\tfxx\qtxg\cq.php on line 9
+[01-Mar-2015 11:01:18 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cq.php on line 12
+[01-Mar-2015 11:01:25 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[01-Mar-2015 11:01:25 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[01-Mar-2015 11:01:35 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/elongating.htm):  in C:\wwwroot\tfxx\qtxg\cq.php on line 9
+[01-Mar-2015 11:01:35 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cq.php on line 12
+[01-Mar-2015 11:55:15 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/mid-range.htm):  in C:\wwwroot\tfxx\qtxg\zq.php on line 9
+[01-Mar-2015 11:55:15 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\zq.php on line 12
+[01-Mar-2015 12:00:08 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/typhoon/probability-img.html):  in C:\wwwroot\tfxx\qtxg\tfyb.php on line 10
+[01-Mar-2015 12:05:03 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.nmc.gov.cn/publish/bulletin/swpc.htm):  in C:\wwwroot\tfxx\qtxg\qdltq.php on line 9
+[01-Mar-2015 12:05:03 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\qdltq.php on line 13
+[01-Mar-2015 12:45:29 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/elongating.htm):  in C:\wwwroot\tfxx\qtxg\cq.php on line 9
+[01-Mar-2015 12:45:29 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cq.php on line 12
+[01-Mar-2015 12:45:54 Asia/Shanghai] PHP Warning:  file_get_contents(http://www.weather.gov.cn/publish/bulletin/elongating.htm):  in C:\wwwroot\tfxx\qtxg\cq.php on line 9
+[01-Mar-2015 12:45:54 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\wwwroot\tfxx\qtxg\cq.php on line 12
